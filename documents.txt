@@ -1,0 +1,46 @@
+text,category
+India won the cricket match,Sports
+Virat Kohli scored a century,Sports
+The football team won the championship,Sports
+The batsman hit a six,Sports
+The tennis player won the final,Sports
+The coach announced the playing eleven,Sports
+The team celebrated their victory,Sports
+The match went into a super over,Sports
+The bowler took five wickets,Sports
+The stadium was full of fans,Sports
+The hockey team qualified for the finals,Sports
+The referee blew the final whistle,Sports
+The athlete won a gold medal,Sports
+The basketball match was exciting,Sports
+The captain lifted the trophy,Sports
+The election results were announced,Politics
+The Prime Minister addressed the nation,Politics
+The government introduced a new policy,Politics
+The parliament passed a new bill,Politics
+The budget was presented today,Politics
+The minister held a press conference,Politics
+Citizens voted in the general election,Politics
+The opposition criticized the proposal,Politics
+The president met foreign leaders,Politics
+The government launched a welfare scheme,Politics
+Political parties started campaigning,Politics
+The cabinet approved the new project,Politics
+The state government announced new rules,Politics
+The election commission released the schedule,Politics
+The leaders debated national issues,Politics
+Python is a popular programming language,Technology
+Artificial Intelligence is changing industries,Technology
+Machine Learning uses data for predictions,Technology
+Cloud computing is widely used today,Technology
+Cybersecurity protects computer systems,Technology
+Software engineers develop applications,Technology
+Data science helps businesses make decisions,Technology
+Computers process information quickly,Technology
+The company launched a new smartphone,Technology
+Robots are used in modern factories,Technology
+Programming improves problem solving skills,Technology
+The website was developed using HTML and CSS,Technology
+Many companies use cloud storage,Technology
+Technology is evolving rapidly,Technology
+Deep learning is a branch of artificial intelligence,Technology
